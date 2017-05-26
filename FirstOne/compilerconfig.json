@@ -1,0 +1,10 @@
+﻿[
+  //{
+  //  "outputFile": "Content/Styles/Site.css",
+  //  "inputFile": "Content/Styles/Site.scss"
+  //},
+  {
+    "outputFile": "Content/Styles/Views/_Smashing.css",
+    "inputFile": "Content/Styles/Views/_Smashing.scss"
+  }
+]
